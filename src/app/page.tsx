@@ -1,4 +1,4 @@
-"use client123123";
+"use client";
 
 import { AnimatePresence, motion } from "motion/react";
 import { useEffect, useMemo, useRef } from "react";
